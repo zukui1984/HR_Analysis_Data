@@ -4,6 +4,10 @@
 Based on HR data consisting of over 22,000 rows from the year 2000 to 2020. 
 The dataset includes information such as employee IDs, gender, race/ethnicity, age, location, hire, termination dates, departments, job titles
 
+![Before](https://github.com/zukui1984/hr_analysis_data/blob/master/images/before_cleaning.png) Before cleaning
+![After](https://github.com/zukui1984/hr_analysis_data/blob/master/images/after_cleaning.png) After cleaning
+
+
 ## Questions
 1. What is the gender breakdown of employees in the company?
 2. What is the race/ethnicity breakdown of employees in the company?
