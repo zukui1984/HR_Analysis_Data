@@ -7,6 +7,9 @@ The dataset includes information such as employee IDs, gender, race/ethnicity, a
 ![Before](https://github.com/zukui1984/hr_analysis_data/blob/master/images/before_cleaning.png) Before cleaning
 ![After](https://github.com/zukui1984/hr_analysis_data/blob/master/images/after_cleaning.png) After cleaning
 
+## [SQL Code](https://github.com/zukui1984/hr_analysis_data/blob/master/hr_data.sql) - All queries
+
+
 
 ## Questions
 1. What is the gender breakdown of employees in the company?
