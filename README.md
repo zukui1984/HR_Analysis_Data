@@ -36,6 +36,6 @@ The dataset includes information such as employee IDs, gender, race/ethnicity, a
 - Employee Growth: Net increase over years.
 - Tenure by Department: Legal/Auditing highest, Services/Sales/Marketing lowest.
 
-## Limitations:
-- Excluded records with negative ages (4%).
-- Excluded records with future term dates (1599 records).
+## Power BI Screenshots
+![1st Image](https://github.com/zukui1984/HR_Analysis_Data/blob/master/images/first_page.JPG)
+![2nd Image](https://github.com/zukui1984/HR_Analysis_Data/blob/master/images/second_page.JPG)
